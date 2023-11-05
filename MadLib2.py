@@ -1,5 +1,6 @@
 adjective = input("Введите прилагательное: ")
 noun = input("Введите существительное: ")
 verb = input("Введите глагол в прошедшем времени: ")
+animal = input("Введите название животного в винительном падеже: ")
 print("Ваша чепуха:")
-print("Этот", adjective, noun, verb, "на ленивую рыжую собаку")
+print("Этот", adjective, noun, verb, "на", animal)
